@@ -35,7 +35,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![output](./ss.png)
+![output](./gcdoutput.png)
 
 
 ## Result:
