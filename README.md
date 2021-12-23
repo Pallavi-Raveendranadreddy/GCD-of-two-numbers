@@ -32,7 +32,7 @@ To write a program to find the GCD of two numbers using function.
 ```
 
 ## Output:
-![output](./pv1.png)
+![gcd of two numbers](./pv1.png)
 
 
 ## Result:
